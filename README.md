@@ -5,7 +5,7 @@
 ## Reach me
 
 [<img height="24" width="24" align= "center" src="image/linkedin.png"/>][linkedln]
-[<img height="24" width="24" align= "center" src="image/email.png"/>](mailto:samet.ctnky35@gmail.com)
+[<img height="24" width="24" align= "center" src="image/email.png"/>](mailto:cetinkayasamet13@gmail.com)
 <br />
 <br />
 ## Tech I use
